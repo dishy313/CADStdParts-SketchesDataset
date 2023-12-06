@@ -6,7 +6,7 @@ This repo contains a dataset which includes 2 sub-datasets described as follows.
 [Sub-dataset of sketches]: This sub-dataset supplies 6 groups of sketches of the corresponding parts in Sub-dataset of standard parts.
 
 ## Obtain
-The Dataset can be obtained at https://github.com/dishy313/CADStdParts-SketchesDataset.
+The Dataset can be obtained at  [here](https://1drv.ms/f/s!AlX2qoqCzMXSglcXAHBmY5Gr1Aqu?e=UVRf2W).
 
 ## Citation
 If you find this dataset useful, please cite the following paper:
