@@ -11,4 +11,4 @@ The Dataset can be obtained at  [here](https://1drv.ms/f/s!AlX2qoqCzMXSglcXAHBmY
 ## Citation
 If you find this dataset useful, please cite the following paper:
 Shengling Duan, Jiali Feng and Yue Qi,
-CAD STANDARD PART RETRIEVAL BASED ON SKETCH USING TRIPLET-LOSS NETWORK
+Sketch-based CAD Standard Part Retrieval Following Mechanical Definitions
